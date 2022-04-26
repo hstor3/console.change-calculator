@@ -2,7 +2,7 @@
 
 ## About
 
-This is a simple console change calculator. You enter a dollar and or change amount into the console (decimal or not), and the smallest change amount is calculated.
+This is a simple console change calculator. You enter a dollar and/or change amount into the console (decimal or not), and the smallest change amount is calculated.
 
 ### Built With
 
